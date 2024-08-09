@@ -1,1 +1,2 @@
 # Data-Warehouse-on-Azure-platform
+This project focuses on developing a Data Warehouse (DW) on the Microsoft Azure platform for managing and analyzing business data, particularly within the context of a fictional company that produces and sells bicycles. The primary goal is to enhance inventory management, production tracking, and decision-making processes through a robust business intelligence (BI) solution.
